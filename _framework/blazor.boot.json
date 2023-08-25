@@ -7,7 +7,7 @@
   "linkerEnabled": true,
   "resources": {
     "assembly": {
-      "AppMetrics.dll": "sha256-Thk\/82L3NGpDH9zNRHAfiwFae5oXPLmxbxaVa8IQzu4=",
+      "AppMetrics.dll": "sha256-6kUO5hytYzM3x5InHQYQMn6wy4dzobAugXrz75jcf4I=",
       "Microsoft.AspNetCore.Components.dll": "sha256-Bt8uo5gkjno12+lgD3NQYTDc5cOnC9stCmbQoUGynSs=",
       "Microsoft.AspNetCore.Components.Web.dll": "sha256-r0YBuWGUlaHUh2Z23twt81FC7qrTbOMZKoaD\/dgspW4=",
       "Microsoft.AspNetCore.Components.WebAssembly.dll": "sha256-GthKrHcSc8uOL6XXkGQP6uGfESlsj9kHhiGlLA+w5iM=",
