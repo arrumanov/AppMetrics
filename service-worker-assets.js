@@ -65,7 +65,7 @@
       "url": "icon-512.png"
     },
     {
-      "hash": "sha256-JZhM\/hrAxG46CtkmmetAiwhxSNcLdEVE2EOGyOiJIKw=",
+      "hash": "sha256-H5S7tvURCc4xmmBn5fQqFqIYJNjJzwyBcRTjzgTTbOc=",
       "url": "index.html"
     },
     {
@@ -75,6 +75,10 @@
     {
       "hash": "sha256-paIeuWnSzjeLGITWkk4p3rcejUsZWCJGPeOK9UhWXtg=",
       "url": "sample-data\/weather.json"
+    },
+    {
+      "hash": "sha256-V4CVisUdY6pucaxOYD4KrrfYYHY397A3Fdw+GsmOT+8=",
+      "url": "tag.js"
     },
     {
       "hash": "sha256-lOCs45frNf+D7me6lKLgUhRCdt4VwHCp9H6Ct+YWzfs=",
@@ -1789,5 +1793,5 @@
       "url": "_content\/AntDesign\/less\/upload\/style\/rtl.less"
     }
   ],
-  "version": "q0wzBJdZ"
+  "version": "n5JPPklv"
 };
